@@ -1,6 +1,6 @@
 #### MRC QA 프로젝트(검역본부)를 위한 NLP 공부 및, BERT 자료정리
 
-![](./img/flow.png)
+![](./img/flow.PNG)
 
 
 ---
